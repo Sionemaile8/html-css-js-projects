@@ -1,18 +1,14 @@
 
 
 header {
-text-align: center;
-font-size: 70px;
-margin-bottom: 5px;
-
+    font-size: 70px;
+    margin-bottom: 5px;
 }
 
 #competition {
-    text-align: left;
     font-size: 20px;
     font-style: bold;
     margin: 10px;
-
 }
 
 p {
@@ -27,4 +23,25 @@ p {
     border-bottom: 5px;
     padding: 50px;
     
+}
+.row{
+    margin-bottom: 15px;
+}
+.col{
+    display: inline-block;
+    width: 40%;
+    margin-right: 5px;
+}
+
+.inputTextBox{
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+#email{
+    width: 98%;
+    padding: 8px;
+    margin-top: 5px;
+
 }
